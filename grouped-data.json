@@ -1,0 +1,14 @@
+[
+    {
+        "type": "Actresses",
+        "data": ["Margot Robbie", "Emma Stone", "Zendaya"]
+    },
+    {
+        "type": "Actors",
+        "data":["Leonardo DiCaprio", "Robert Downey Jr.", "Johnny Depp"]
+    },
+    {
+        "type": "Characters",
+        "data": ["Willy Wonka", "Iron Man", "Captain Jack Sparrow"]
+    }
+]
